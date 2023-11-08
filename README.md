@@ -37,7 +37,7 @@ We welcome contributions from the community to make ZeroPhysics a better resourc
 
 ## License
 
-ZeroPhysics is released under the [MIT License](LICENSE). You are free to use, modify, and distribute the content, but please review the license for more details.
+ZeroPhysics is released under the [MIT License](LICENSE).
 
 ---
 
